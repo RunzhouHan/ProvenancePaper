@@ -38,7 +38,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
 - HUG presentation about VOL connectors 
   - [Presentation](https://www.hdfgroup.org/wp-content/uploads/2020/10/Virtual-Object-Layer-VOL-Intro.pdf)
   - [Video](https://www.youtube.com/watch?v=d6BHION5WbI )
-- [Documenting Scientific Workflows: The Metadata, Provenance & Ontology Project]
+- Documenting Scientific Workflows: The Metadata, Provenance & Ontology Project
   - [Link1](https://www.nitrd.gov/nitrdgroups/images/c/c6/Schissel-MPO-MAGIC-Final.pdf)
   - [Link2](https://www-internal.psfc.mit.edu/research/alcator/pubs/APS/APS2014/Greenwald_APS-poster_%202014.pdf)
 - [DacMan/DVC](https://sc18.supercomputing.org/proceedings/tech_paper/tech_paper_files/pap407s5.pdf)
