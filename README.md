@@ -13,6 +13,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [Provenance in Collaborative in Silico Scientific Research: a Survey](https://dl.acm.org/doi/10.1145/3442322.3442329) (SIGMOD'20)
   - [Big Provenance Stream Processing for Data Intensive Computations](https://ieeexplore.ieee.org/document/8588658) (eScience'18)
   - [DAC-MAN: Data Change Management for Scientific Datasets on HPC systems](https://ieeexplore.ieee.org/document/8665773) (SC'18)
+  - [Capturing and Querying Workflow Runtime Provenance with PROV: a Practical Approach](https://dl.acm.org/doi/10.1145/2457317.2457365) (EDBT'13)
   - [Provenance and Scientific Workflows: Challenges and Opportunities](https://dl.acm.org/doi/10.1145/1376616.1376772) (SIGMOD'08)
   - [A survey of data provenance in e-science](https://dl.acm.org/doi/10.1145/1084805.1084812) (SIGMOD'05)
   - [Lineage Retrieval for Scientific Data Processing: A Survey](https://dl.acm.org/doi/10.1145/1057977.1057978) (ACM Computing Surveys, Mar. 2005)
