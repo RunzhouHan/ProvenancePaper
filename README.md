@@ -63,6 +63,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
 - [PROV-Overview](https://www.w3.org/TR/prov-overview/)
   - [ProvONE: A PROV Extension Data Model for Scientific Workflow Provenance](http://jenkins-1.dataone.org/jenkins/view/Documentation%20Projects/job/ProvONE-Documentation-trunk/ws/provenance/ProvONE/v1/provone.html)
   - [ProvONE: extending PROV to support the DataONE scientific community](http://homepages.cs.ncl.ac.uk/paolo.missier/doc/dataone-prov-3-years-later.pdf) 
+  - [Wf4Ever Research Object Model 1.0](http://wf4ever.github.io/ro/)
 - [The Importance of Data Set Provenance for Science](https://eos.org/opinions/the-importance-of-data-set-provenance-for-science)
 - [FAIR Principles](https://www.go-fair.org/fair-principles/)
   - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
