@@ -5,6 +5,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
 - Provenance in middleware
   - [H5Prov: I/O Performance Analysis of Science Applications Using HDF5 File-level Provenance](https://sdm.lbl.gov/~sbyna/research/papers/2019/201905-CUG-H5Prov-Provenance.pdf) (CUG'19)
   - [Scientific data exchange: a schema for HDF5-based storage of raw and analyzed data](http://xrm.phys.northwestern.edu/research/pdf_papers/2014/decarlo_jsr_2014.pdf) (Journal of Synchrotron Radiation 2014)
+  - [A Generic Provenance Middleware for Queries, Updates, and Transactions](https://www.usenix.org/conference/tapp2014/agenda/presentation/arab) (TaPP'14)
   - [Study in Usefulness of Middleware-Only Provenance](https://ieeexplore.ieee.org/document/6972267) (eScience'14)
 - Provenance in e-Science
   - [Workflow Provenance in the Lifecycle of Scientific Machine Learning](https://arxiv.org/abs/2010.00330) (arXiv, Sept. 2020)
