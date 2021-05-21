@@ -20,6 +20,8 @@ A collection of data provenance papers & talks. Papers are classified by researc
 - Provenance in scripts
   - [Improving Data Scientist Efficiency with Provenance](https://www.seltzer.com/assets/publications/icse2020-provbuild.pdf) (ICSE'20)  
   - [noWorkflow: a Tool for Collecting, Analyzing, and Managing Provenance from Python Scripts](http://www.vldb.org/pvldb/vol10/p1841-pimentel.pdf) (VLDB'17)
+- Provenance visualization
+  - [Evaluation of filesystem provenance visualization tools](https://dash.harvard.edu/bitstream/handle/1/11326224/InfoVis_borkin-124_camera-ready.pdf;jsessionid=7F79F6083C394AB59756F0AF7C5AFB73?sequence=1) (TVCG'13) 
 - Provenance systems
   - [Provenance Integration Requires Reconciliation](https://www.usenix.org/conference/tapp11/provenance-integration-requires-reconciliation) (TaPP'11)
   - [Provenance-Aware Storage Systems](https://dl.acm.org/doi/10.5555/1267359.1267363) (ATC'06)
