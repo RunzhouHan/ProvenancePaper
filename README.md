@@ -8,7 +8,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [A Generic Provenance Middleware for Queries, Updates, and Transactions](https://www.usenix.org/conference/tapp2014/agenda/presentation/arab) (TaPP'14)
   - [Study in Usefulness of Middleware-Only Provenance](https://ieeexplore.ieee.org/document/6972267) (eScience'14)
 - Provenance in e-Science
-  - [ProvONE+: A Provenance Model for Scientific Workflows](https://link.springer.com/chapter/10.1007%2F978-3-030-62008-0_30) (WISE'20)
+  - [ProvONE+: A Provenance Model for Scientific Workflows](https://link.springer.com/chapter/10.1007%2F978-3-030-62008-0_30) (WISE'20)  
   - [Workflow Provenance in the Lifecycle of Scientific Machine Learning](https://arxiv.org/abs/2010.00330) (arXiv, Sept. 2020)
   - [Provenance in Collaborative in Silico Scientific Research: a Survey](https://dl.acm.org/doi/10.1145/3442322.3442329) (SIGMOD'20)
   - [Big Provenance Stream Processing for Data Intensive Computations](https://ieeexplore.ieee.org/document/8588658) (eScience'18)
@@ -61,6 +61,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [Performance of the Versioned HDF5 Library](https://labs.quansight.org/blog/2020/09/versioned-hdf5-performance/) 
 - [PROV-Overview](https://www.w3.org/TR/prov-overview/)
   - [ProvONE: A PROV Extension Data Model for Scientific Workflow Provenance](http://jenkins-1.dataone.org/jenkins/view/Documentation%20Projects/job/ProvONE-Documentation-trunk/ws/provenance/ProvONE/v1/provone.html)
+  - [ProvONE: extending PROV to support the DataONE scientific community](http://homepages.cs.ncl.ac.uk/paolo.missier/doc/dataone-prov-3-years-later.pdf) 
 - [The Importance of Data Set Provenance for Science](https://eos.org/opinions/the-importance-of-data-set-provenance-for-science)
 - [FAIR Principles](https://www.go-fair.org/fair-principles/)
   - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
