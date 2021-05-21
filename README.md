@@ -8,6 +8,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [A Generic Provenance Middleware for Queries, Updates, and Transactions](https://www.usenix.org/conference/tapp2014/agenda/presentation/arab) (TaPP'14)
   - [Study in Usefulness of Middleware-Only Provenance](https://ieeexplore.ieee.org/document/6972267) (eScience'14)
 - Provenance in e-Science
+  - [ProvONE+: A Provenance Model for Scientific Workflows](https://link.springer.com/chapter/10.1007%2F978-3-030-62008-0_30) (WISE'20)
   - [Workflow Provenance in the Lifecycle of Scientific Machine Learning](https://arxiv.org/abs/2010.00330) (arXiv, Sept. 2020)
   - [Provenance in Collaborative in Silico Scientific Research: a Survey](https://dl.acm.org/doi/10.1145/3442322.3442329) (SIGMOD'20)
   - [Big Provenance Stream Processing for Data Intensive Computations](https://ieeexplore.ieee.org/document/8588658) (eScience'18)
