@@ -17,6 +17,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [Lineage Retrieval for Scientific Data Processing: A Survey](https://dl.acm.org/doi/10.1145/1057977.1057978) (ACM Computing Surveys, Mar. 2005)
 - Provenance in database
   - [A Provenance Storage Method Based On Parallel Database](https://ieeexplore.ieee.org/document/7120563) (ICISCE'20)
+  - [Interoperability for Provenance-aware Databases using PROV and JSON](https://www.usenix.org/conference/tapp15/workshop-program/presentation/niu) (TaPP'15)
   - [Why and Where􏰀 Characterization of Data Provenance](https://dl.acm.org/doi/10.5555/645504.656274) (ICDT'01)
 - Provenance in scripts
   - [Improving Data Scientist Efficiency with Provenance](https://www.seltzer.com/assets/publications/icse2020-provbuild.pdf) (ICSE'20)  
