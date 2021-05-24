@@ -40,6 +40,7 @@ A collection of data provenance papers & talks. Papers are classified by researc
 - Provenance & Reliability
   - [Lineage-driven Fault Injection](https://dl.acm.org/doi/10.1145/2723372.2723711) (SIGMOD'15)
 - Multi area
+  - [A survey on provenance: What for? What form? What from?](https://dl.acm.org/doi/10.1007/s00778-017-0486-1) (VLDB.J'17)
   - [Special Issue on Data Provenance](http://sites.computer.org/debull/A07dec/issue1.htm) (Data Engineering Bulletin Issues, Dec. 2007)
     - Provenance in Databases: Past, Current, and Future
     - Provenance and Data Synchronization	
