@@ -34,32 +34,45 @@ A collection of data provenance papers & talks. Papers are classified by researc
   - [Improving Data Scientist Efficiency with Provenance](https://www.seltzer.com/assets/publications/icse2020-provbuild.pdf) (ICSE'20)  
   - [noWorkflow: a Tool for Collecting, Analyzing, and Managing Provenance from Python Scripts](http://www.vldb.org/pvldb/vol10/p1841-pimentel.pdf) (VLDB'17)
 - Provenance in machine learning
+  - [LIMA: Fine-grained Lineage Tracing and Reuse in Machine Learning Systems](https://dl.acm.org/doi/abs/10.1145/3448016.3452788) (SIGMOD'21)
   - [PrIU: A Provenance-Based Approach for Incrementally Updating Regression Models](https://dl.acm.org/doi/abs/10.1145/3318464.3380571) (SIGMOD'20)
   - [The Best of Both Worlds: Challenges in Linking Provenance and Explainability in Distributed Machine Learning](https://ieeexplore.ieee.org/document/8885193) (ICDCS'19)
 - Provenance query
   - [Ariadne: Online Provenance for Big Graph Analytics](https://dl.acm.org/doi/10.1145/3299869.3300091) (SIGMOD'19)
+  - [Zoom*UserViews: querying relevant provenance in workflow systems](https://dl.acm.org/doi/pdf/10.5555/1325851.1326016) (VLDB'07)
 - Provenance visualization
   - [Characterizing Provenance in Visualization and Data Analysis: An Organizational Framework of Provenance Types and Purposes](https://ieeexplore.ieee.org/document/7192714) (TVCG'16)
   - [Evaluation of filesystem provenance visualization tools](https://dash.harvard.edu/bitstream/handle/1/11326224/InfoVis_borkin-124_camera-ready.pdf;jsessionid=7F79F6083C394AB59756F0AF7C5AFB73?sequence=1) (TVCG'13) 
   - [Using VisTrails and Provenance for Teaching Scientific Visualization](https://columbiadb.github.io/files/papers/vistrails-teach.pdf) (COMPUTER GRAPHICS forum 2011)
 - Provenance optimization
   - [Hypothetical Reasoning via Provenance Abstraction](https://dl.acm.org/doi/10.1145/3299869.3300084) (SIGMOD'19)
+  - [ProTracer: Towards Practical Provenance Tracing by Alternating Between Logging and Tainting ](https://friends.cs.purdue.edu/pubs/NDSS16.pdf) (NDSS'16)
+  - [LogGC: Garbage Collecting Audit Log](https://dl.acm.org/doi/10.1145/2508859.2516731) (CCS'13)
   - [Provenance analysis: Towards quality provenance ](https://ieeexplore.ieee.org/document/6404480) (eScience'12)
 - Provenance standard
   - [The W3C PROV family of specifications for modelling provenance metadata](https://dl.acm.org/doi/10.1145/2452376.2452478) (EDBT '13) 
   - [A Framework for Collecting Provenance in Data-Centric Scientific Workflows](https://ieeexplore.ieee.org/document/4032054) (ICWS'06)
 - Provenance systems
+  - [Improve Data Scientist Efficiency with Provenance](https://dl.acm.org/doi/10.1145/3377811.3380366) (ICSE'20)
+  - [Runtime Analysis of Whole-System Provenance](https://dl.acm.org/doi/10.1145/3243734.3243776) (CCS'18)
   - [Provenance Integration Requires Reconciliation](https://www.usenix.org/conference/tapp11/provenance-integration-requires-reconciliation) (TaPP'11)
-  - [Taverna, reloaded](SSDBM’10) (https://link.springer.com/chapter/10.1007/978-3-642-13818-8_33)
+  - [Taverna, reloaded](https://link.springer.com/chapter/10.1007/978-3-642-13818-8_33) (SSDBM’10)
+  - [Layering in Provenance Systems](https://dl.acm.org/doi/10.5555/1855807.1855817) (ATC'09)
   - [Provenance-Aware Storage Systems](https://dl.acm.org/doi/10.5555/1267359.1267363) (ATC'06)
   - [Trio: A System for Integrated Management of Data, Accuracy, and Lineage](http://cidrdb.org/cidr2005/papers/P22.pdf) (CIDR'05)
 - Provenance & Reliability & Security
   - [On Optimizing the Trade-off between Privacy and Utility in Data Provenance](https://arxiv.org/abs/2103.00288) (SIGMOD'21)
+  - [Towards Scalable Cluster Auditing through Grammatical Inference over Provenance Graphs](https://whassan3.web.engr.illinois.edu/papers/hassan-ndss18.pdf) (NDSS'18)
+  - [FRAPpuccino: Fault-detection through Runtime Analysis of Provenance ](https://www.seltzer.com/assets/publications/FRAPpuccino.pdf) (HotCloud'17)
   - [Lineage-driven Fault Injection](https://dl.acm.org/doi/10.1145/2723372.2723711) (SIGMOD'15)
+  - [Trustworthy Whole-System Provenance for the Linux Kernel](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-bates.pdf) (Security'15)
+  - [Hi-Fi: collecting high-fidelity whole-system provenance](https://www.cise.ufl.edu/~butler/pubs/acsac12b.pdf) (Annual Computer Security Applications Conference 2012)
+  - [Backtracking Intrusions](https://css.csail.mit.edu/6.858/2019/readings/backtracking.pdf) (ACM Transactions on Computer Systems '2005)
 - Multi area
   - [Data provenance: What’s next?](https://dl.acm.org/doi/abs/10.1145/3316416.3316418) (SIGMOD Record'18)
   - [A survey on provenance: What for? What form? What from?](https://dl.acm.org/doi/10.1007/s00778-017-0486-1) (VLDB.J'17)
   - [A Primer on Provenance](https://queue.acm.org/detail.cfm?id=2602651) (ACMqueue'14)
+  - [The Foundations for Provenance on the Web](https://dl.acm.org/doi/10.1561/1800000010) (Foundations and Trends in Web Science 2010)
   - [Special Issue on Data Provenance](http://sites.computer.org/debull/A07dec/issue1.htm) (Data Engineering Bulletin Issues, Dec. 2007)
     - Provenance in Databases: Past, Current, and Future
     - Provenance and Data Synchronization	
@@ -68,6 +81,19 @@ A collection of data provenance papers & talks. Papers are classified by researc
     - Issues in Building Practical Provenance Systems
     - Provenance in Scientific Workflow Systems
     - Copyright and Provenance: Some Practical Problems
+- RDF storage & hardware acceleration
+  - [Fast and Concurrent RDF Queries using RDMA-assisted GPU Graph Exploration](https://dl.acm.org/doi/10.5555/3277355.3277418) (ATC'18)
+  - [Sub-millisecond Stateful Stream Querying over Fast-evolving Linked Data](https://dl.acm.org/doi/10.1145/3132747.3132777) (SOSP'17)
+  - [Fast and Concurrent RDF Queries with RDMA- Based Distributed Graph Exploration](https://dl.acm.org/doi/10.5555/3026877.3026902) (OSDI'16)
+- FAIR principles: maturity evaluations and implimentation considerations
+  - [FAIR Principles: Interpretations and Implementation Considerations](https://direct.mit.edu/dint/article/2/1-2/10/10017/FAIR-Principles-Interpretations-and-Implementation) (Data Intelligence, 2020)
+    - [W3C Ontology](https://peta-pico.github.io/FAIR-nanopubs/icc/index-en.html#https://w3id.org/fair/icc/terms/FAIR-ICC-Model)
+  - [Evaluating FAIR maturity through a scalable, automated, community-governed framework](https://www.nature.com/articles/s41597-019-0184-5) (Scientific data, Nature, 2019)
+    - [Web APIs](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/collections/new/evaluate)
+  - [Results of an Analysis of Existing FAIR Assessment Tools](https://www.rd-alliance.org/group/fair-data-maturity-model-wg/outcomes/results-analysis-existing-fair-assessment-tools) (2019)
+
+  - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618) (Scientific data, Nature, 2016)
+
 
 ## Talks
 - [Leveraging HDF5 infrastructure by ADF to build an interoperable package & contextualized data in Pharma using semantic technology](https://www.hdfgroup.org/wp-content/uploads/2020/10/Leveraging_HDF5_infrastructure_by-_ADF_Amnon_Ptashek.pdf)
@@ -90,3 +116,9 @@ A collection of data provenance papers & talks. Papers are classified by researc
 - [The Importance of Data Set Provenance for Science](https://eos.org/opinions/the-importance-of-data-set-provenance-for-science)
 - [FAIR Principles](https://www.go-fair.org/fair-principles/)
   - [The FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618)
+- Open Access Datasets
+  - https://livingatlas.arcgis.com/esri_ngda_datasets/
+  - https://datasetsearch.research.google.com
+  - https://ieee-dataport.org
+  - https://www.dataone.org/fair/
+  - https://www.data.gov
